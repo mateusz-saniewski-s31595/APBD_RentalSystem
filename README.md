@@ -1,6 +1,6 @@
-Wypożyczalnia Sprzętu
+# Wypożyczalnia Sprzętu
 
-# Decyzje projektowe
+## Decyzje projektowe
 
 Kod podzielony jest na trzy warstwy: Domain, Services, UI.
 
@@ -34,7 +34,7 @@ i wymusza obsługę tego przypadku przez wywołującego, bez ukrytego
 przepływu sterowania przez wyjątki.
 
 
-# Struktura projektu
+## Struktura projektu
 
 RentalSystem/
 ├── Domain/
