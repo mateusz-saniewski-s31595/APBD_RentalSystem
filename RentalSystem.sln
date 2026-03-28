@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalSystem", "RentalSystem\RentalSystem.csproj", "{F9E8C778-EE1B-4372-91CB-DC335B36E36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E8C778-EE1B-4372-91CB-DC335B36E36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E8C778-EE1B-4372-91CB-DC335B36E36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E8C778-EE1B-4372-91CB-DC335B36E36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E8C778-EE1B-4372-91CB-DC335B36E36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
